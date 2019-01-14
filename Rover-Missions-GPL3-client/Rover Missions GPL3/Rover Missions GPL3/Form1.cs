@@ -45,5 +45,10 @@ namespace Rover_Missions_GPL3
         {
             MessageBox.Show("Source code: https://github.com/we6jbo/Rover-Missions-GPL3\nRover Missions GPL3 - This is the client side of the Rover Missions interface. The interface that allows the user to move the rover around and to perform missions.\nCopyright(C) 2019  Jeremiah O'Neal and Natalie O'Neal\n\nThis program is free software: you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation, either version 3 of the License, or\n(at your option) any later version.\n\nThis program is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with this program.If not, see<https://www.gnu.org/licenses/>.");
         }
+
+        private void RoverMissionsGPL3_web_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+
+        }
     }
 }
