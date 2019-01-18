@@ -23,8 +23,13 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>1</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <SupportUrl>http://jnonealbayparkgames.com</SupportUrl>
+    <ErrorReportUrl>http://jnonealbayparkgames.com</ErrorReportUrl>
+    <ProductName>Rover Missions GPL3</ProductName>
+    <PublisherName>Jeremiah and Natalie O%27Neal Bay Park Games</PublisherName>
+    <SuiteName>Rover Missions GPL3</SuiteName>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
